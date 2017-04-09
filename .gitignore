@@ -56,3 +56,6 @@ docs/_build/
 
 # PyBuilder
 target/
+pngToAscii.sln
+pngToAscii.v12.suo
+imgToAscii.exe
